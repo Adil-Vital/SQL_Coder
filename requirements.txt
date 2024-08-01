@@ -1,0 +1,6 @@
+Django
+torch
+transformers
+bitsandbytes
+accelerate
+sqlparse
